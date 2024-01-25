@@ -13,4 +13,4 @@ for x in range(1,11):
 
 
 #now add a comment in code
-print("Minor change in code")    
+print("Minor change in code")
